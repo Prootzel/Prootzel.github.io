@@ -60,24 +60,16 @@ body{
     transition-duration: 1000ms;
 }
 
-.menubar:hover .website_subtitle{
-    color:rgba(147, 121, 172, 0.719);
-    overflow: hidden;
 
-    transition-duration: 2000ms;
-}
-
-.menubar:hover .website_title{
+.menubar:hover .website-title{
     color:white;
     overflow: hidden;
-
     transition-duration: 2000ms;
 }
 
-.website_title {
-    padding-top: 20px;
-    margin-top: 0px;
+.website-title {
     text-align: center;
+    text-justify: center;
     font-size: xx-large;
     user-select: none;
 
@@ -91,17 +83,6 @@ a{
     text-decoration: none;
 }
 
-.website_subtitle{
-    padding-top: 20px;
-    margin-top: 0px;
-    text-align: center;
-    font-size: small;
-    user-select: none;
-    color:transparent;
-
-
-    transition-duration: 500ms;
-}
 
 .gallery-header{
     color:white;
@@ -111,7 +92,6 @@ a{
     left:50%;
     transform: translate(-50%, -50%);
     padding: 2%;
-
 }
 
 .background{
