@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://prootzel.github.io/Prootzel.github.io/sitemap.xml
