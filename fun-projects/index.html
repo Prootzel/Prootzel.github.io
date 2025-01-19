@@ -9,19 +9,6 @@
          
         <meta name="generator" content="Publii Open-Source CMS for Static Site" />
 
-				<!-- Global site tag (gtag.js) - Google Analytics -->
-				<script 
-					type="text/javascript"
-					async 
-					src="https://www.googletagmanager.com/gtag/js?id=GTM-WR4BCNKS"></script>
-				<script type="text/javascript">
-				  window.dataLayer = window.dataLayer || [];
-				  function gtag(){dataLayer.push(arguments);}
-				  gtag('js', new Date());
-				  gtag('config', 'GTM-WR4BCNKS' );
-				  
-				</script>				
-				
         <link rel="canonical" href="https://prootzel.github.io/fun-projects/">
         <link rel="alternate" type="application/atom+xml" href="https://prootzel.github.io/feed.xml" />
 <link rel="alternate" type="application/json" href="https://prootzel.github.io/feed.json" />
@@ -117,5 +104,19 @@
 
 
 
+			<script src="https://prootzel.github.io/media/plugins/pagePrefetching/quicklink.umd.js"></script>
+			<script>
+				window.addEventListener('load', () => {
+					quicklink.listen({
+						prerender: true,
+						el: document.querySelector('body'),
+						delay: 50,
+						limit: Infinity,
+						throttle: Infinity,
+						timeout: 2000
+					});
+				});
+			</script>
+		
 </body>
 </html>
