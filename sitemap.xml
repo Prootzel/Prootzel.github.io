@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://prootzel.github.io/Prootzel.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://prootzel.github.io/Prootzel.github.io/</loc>
+</url>
+<url>
+<loc>https://prootzel.github.io/Prootzel.github.io/about-me/</loc>
+<lastmod>2025-01-18T19:56:41+01:00</lastmod>
+</url>
+<url>
+<loc>https://prootzel.github.io/Prootzel.github.io/art/</loc>
+<lastmod>2025-01-18T20:08:55+01:00</lastmod>
+<image:image>
+<image:loc>https://prootzel.github.io/Prootzel.github.io/media/posts/16/gallery/photo_2024-05-06_16-25-25.jpg</image:loc>
+<image:title><![CDATA[Icon of a furry cyborg species called protogen]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://prootzel.github.io/Prootzel.github.io/media/posts/16/gallery/photo_2024-07-06_12-17-39.jpg</image:loc>
+<image:title><![CDATA[Icon of a furry cyborg species called protogen]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://prootzel.github.io/Prootzel.github.io/media/posts/16/gallery/photo_2024-07-06_12-17-35.jpg</image:loc>
+<image:title><![CDATA[Icon of a license with the image of a cyborg species called protogen, stating things like fur colour]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://prootzel.github.io/Prootzel.github.io/personal/</loc>
+<lastmod>2025-01-18T20:02:39+01:00</lastmod>
+</url>
+<url>
+<loc>https://prootzel.github.io/Prootzel.github.io/portfolio-music/</loc>
+<lastmod>2025-01-18T19:46:19+01:00</lastmod>
+</url>
+<url>
+<loc>https://prootzel.github.io/Prootzel.github.io/portfolio-programming/</loc>
+<lastmod>2025-01-18T19:46:13+01:00</lastmod>
+</url>
+</urlset>
