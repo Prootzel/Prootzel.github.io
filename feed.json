@@ -9,5 +9,51 @@
         "name": "Prootzel"
     },
     "items": [
+        {
+            "id": "https://prootzel.github.io/needforspeedfuwwylang/",
+            "url": "https://prootzel.github.io/needforspeedfuwwylang/",
+            "title": "NeedForSpeedFuwwyLang",
+            "summary": "Makes NFS Heat more uwu Simple python script to translate a .txt/.csv file to fuwwy uwu. I do not regret anything. Github (includes code) Nexusmods&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://prootzel.github.io/media/posts/20/315-1717503702-1155832125.webp\" height=\"359\" width=\"1920\" alt=\"Screenshot of NeedForSpeedFuwwyLang \"  sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-xs.webp 300w ,https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-sm.webp 480w ,https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-md.webp 768w ,https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-lg.webp 1024w\">\n      \n    </figure>\n\n  <p>\n    Makes NFS Heat more uwu\n<br>\n<br>Simple python script to translate a .txt/.csv file to fuwwy uwu.\n<br><br>I do not regret anything.\n  </p>\n\n    <h3 id=\"links\">\n      Links\n    </h3>\n\n  <p>\n    <a href=\"https://github.com/Prootzel/NeedForSpeedFuwwyLang\" target=\"_blank\">Github (includes code)</a><br><a href=\"https://www.nexusmods.com/needforspeedheat/mods/315\" target=\"_blank\">Nexusmods Page (for trying yourself)</a><br>\n  </p>",
+            "author": {
+                "name": "Prootzel"
+            },
+            "tags": [
+                   "Programming",
+                   "Fun"
+            ],
+            "date_published": "2025-01-19T19:20:21+01:00",
+            "date_modified": "2025-01-19T19:28:21+01:00"
+        },
+        {
+            "id": "https://prootzel.github.io/theserver/",
+            "url": "https://prootzel.github.io/theserver/",
+            "title": "theserver",
+            "summary": "A simple semi-private home server, still in active development Recipes Notes Homepage This is an attempt at creating a home server which I can access&hellip;",
+            "content_html": "\n    <h3 id=\"a-simple-semi-private-home-server-still-in-active-development\">\n      A simple semi-private home server, still in active development\n    </h3>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://prootzel.github.io/media/posts/19/aaaaaaaaaa.png\" height=\"940\" width=\"1919\" alt=\"screenshot of a user browsing example recipes\"  sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-xs.png 300w ,https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-sm.png 480w ,https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-md.png 768w ,https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-lg.png 1024w\">\n      <figcaption>Recipes</figcaption>\n    </figure>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://prootzel.github.io/media/posts/19/gallery/aaaaa2.png\" data-size=\"1919x942\">\n        <img loading=\"lazy\" src=\"https://prootzel.github.io/media/posts/19/gallery/aaaaa2-thumbnail.png\" height=\"377\" width=\"768\" alt=\"Image of the user having entered some example notes\" >\n      </a>\n      <figcaption>Notes</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://prootzel.github.io/media/posts/19/gallery/aaaaaaa.png\" data-size=\"1919x932\">\n        <img loading=\"lazy\" src=\"https://prootzel.github.io/media/posts/19/gallery/aaaaaaa-thumbnail.png\" height=\"373\" width=\"768\" alt=\"Homepage of the website saying \"Welcome\"\" >\n      </a>\n      <figcaption>Homepage</figcaption>\n    </figure>\n    </div>\n  </div>\n\n  <p>\n    This is an attempt at creating a home server which I can access from anywhere, having things like recipes, notes and some useful file converters.\n  </p>\n\n    <h3 id=\"current-features\">\n      Current features\n    </h3>\n\n  <ul>\n    <li>User authentication/login systems</li><li>Viewing multi-lingual recipes</li><li>Full localisation</li><li>Private notes for each user</li>\n  </ul>\n\n    <h3 id=\"future-features\">\n      Future features\n    </h3>\n\n  <ul>\n    <li><b>Removing user registration</b><br>I want only the administrator to be able to register users</li><li><b>Admin dashboard</b><br>I want the administrator to be able to look at fancy graphs such as CPU usage</li><li><b>Shared shopping lists</b><br>I want to be able to share a shopping list with multiple people</li><li><b>Creating recipes</b><br>I want to be able to create recipes in multiple languages so all the people who have access can understand it<br></li><li><b>Easier deployment</b><br>I have a raspberry pi to run the server. I want to streamline the deployment process.</li>\n  </ul>\n\n    <h3 id=\"current-stack\">\n      Current stack\n    </h3>\n\n  <ul>\n    <li><b>flask/Python</b><br>Used for all things related to back end as of now</li><li><b>sqlite/SQLAlchemy</b><br>The database that runs it all. For a raspberry pi, it offers low resource usage as it doesn't have any fancy features that I don't need anyways.&nbsp;</li><li><b>flask_login</b><br>The user authentication system. Simple to set up and use</li><li><b>bootstrap</b><br>Making the UI a bit prettier, outdated but easy to use</li>\n  </ul>\n\n  <p>\n    Localization I actually handle myself as I found it easier to do than work with some localization framework/package.\n  </p>",
+            "author": {
+                "name": "Prootzel"
+            },
+            "tags": [
+                   "Programming"
+            ],
+            "date_published": "2025-01-19T19:00:05+01:00",
+            "date_modified": "2025-01-19T19:15:14+01:00"
+        },
+        {
+            "id": "https://prootzel.github.io/youtube-to-summary/",
+            "url": "https://prootzel.github.io/youtube-to-summary/",
+            "title": "Youtube to Summary",
+            "summary": "A pipeline for creating text summaries from youtube URLs Video by PhoenixSC This is a simple example of me playing around with AI. The front-end&hellip;",
+            "content_html": "\n    <h2 id=\"a-pipeline-for-creating-text-summaries-from-youtube-urls\">\n      A pipeline for creating text summaries from youtube URLs\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://prootzel.github.io/media/posts/18/aaaaa.png\" height=\"912\" width=\"1592\" alt=\"Image of the application I mentioned\"  sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://prootzel.github.io/media/posts/18/responsive/aaaaa-xs.png 300w ,https://prootzel.github.io/media/posts/18/responsive/aaaaa-sm.png 480w ,https://prootzel.github.io/media/posts/18/responsive/aaaaa-md.png 768w ,https://prootzel.github.io/media/posts/18/responsive/aaaaa-lg.png 1024w\">\n      <figcaption>Video by PhoenixSC</figcaption>\n    </figure>\n\n  <p>\n    This is a simple example of me playing around with AI. The front-end is existent, but I personally want to focus on the back-end of it here.\n  </p>\n\n    <h3 id=\"when-entering-a-url-it-does-the-followinglessbrgreater\">\n      When entering a URL, it does the following:<br>\n    </h3>\n\n  <ol>\n    <li>Start a separate thread to not freeze the UI</li><li>Download a video's audio stream using pytubefix</li><li>Transcribe the audio using OpenAI's whisper</li><li>Split the transcription into chunks with a certain amount of overlay</li><li>Summarize each chunk seperately</li><li>Merge the chunks together</li><li>Save it to a JSON with some metadata<br></li><li>Give the user a notification</li>\n  </ol>\n\n  <p>\n    Note on step 4: It is required to split the data somehow as the summarization model used can only take a certain number of tokens.\n  </p>\n\n    <h3 id=\"when-starting-a-program-it-does-the-following\">\n      When starting a program, it does the following\n    </h3>\n\n  <ol>\n    <li>Print a lot of system information about the user's machine so I can help with troubleshooting if needed</li><li>Tell the user if they have enough V-RAM to run OpenAI whisper</li>\n  </ol>\n\n    <h3 id=\"current-issues\">\n      Current issues\n    </h3>\n\n  <ol>\n    <li><strong>Speed</strong><br>The program is insanely heavy and slow. Specifically the startup time is insane.</li><li><strong>Precision</strong><br>There is some issues with sarcasm and jokes being taken literally by the AI.</li><li><b>User feedback</b><br>The program doesn't have any sort of visual feedback for when it is processing something.</li><li><b>Code clarity</b><br>There is almost no comments in the code and most of the code is in one giant file.</li><li><b>Visuals</b><br>I don't like the look of the program in its current state</li>\n  </ol>\n\n  <p>\n    I might fix those issues in the future, but this program was more of a playground to me than anything. It helped me learn a bit about the transformers library as well as things related to GUI.\n  </p>\n\n    <h3 id=\"morality\">\n      Morality\n    </h3>\n\n  <p>\n    Using a program like this is, in my opinion, highly immoral. The only reason why this repository is public is because I'm struggling to look for employment and this is one of my biggest repos. I personally don't use it either.\n  </p>\n\n    <h3 id=\"links\">\n      Links\n    </h3>\n\n  <p>\n    <a href=\"https://github.com/Prootzel/yt_to_summary\" target=\"_blank\">Github repository (includes instructions for running)</a>\n  </p>",
+            "author": {
+                "name": "Prootzel"
+            },
+            "tags": [
+                   "Programming"
+            ],
+            "date_published": "2025-01-19T18:47:17+01:00",
+            "date_modified": "2025-01-19T19:01:56+01:00"
+        }
     ]
 }
