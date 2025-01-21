@@ -29,7 +29,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://prootzel.github.io/media/posts/20/315-1717503702-1155832125.webp" height="359" width="1920" alt="Screenshot of NeedForSpeedFuwwyLang "  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-xs.webp 300w ,https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-sm.webp 480w ,https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-md.webp 768w ,https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-lg.webp 1024w">
+      <img decoding="async" loading="lazy" src="https://prootzel.github.io/media/posts/20/315-1717503702-1155832125.webp" height="359" width="1920" alt="Screenshot of NeedForSpeedFuwwyLang "  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-xs.webp 300w ,https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-sm.webp 480w ,https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-md.webp 768w ,https://prootzel.github.io/media/posts/20/responsive/315-1717503702-1155832125-lg.webp 1024w">
       
     </figure>
 
@@ -73,7 +73,7 @@
     </h3>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://prootzel.github.io/media/posts/19/aaaaaaaaaa.png" height="940" width="1919" alt="screenshot of a user browsing example recipes"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-xs.png 300w ,https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-sm.png 480w ,https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-md.png 768w ,https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-lg.png 1024w">
+      <img decoding="async" loading="lazy" src="https://prootzel.github.io/media/posts/19/aaaaaaaaaa.png" height="940" width="1919" alt="screenshot of a user browsing example recipes"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-xs.png 300w ,https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-sm.png 480w ,https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-md.png 768w ,https://prootzel.github.io/media/posts/19/responsive/aaaaaaaaaa-lg.png 1024w">
       <figcaption>Recipes</figcaption>
     </figure>
 
@@ -81,12 +81,12 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://prootzel.github.io/media/posts/19/gallery/aaaaa2.png" data-size="1919x942">
-        <img loading="lazy" src="https://prootzel.github.io/media/posts/19/gallery/aaaaa2-thumbnail.png" height="377" width="768" alt="Image of the user having entered some example notes" >
+        <img decoding="async" loading="lazy" src="https://prootzel.github.io/media/posts/19/gallery/aaaaa2-thumbnail.png" height="377" width="768" alt="Image of the user having entered some example notes" >
       </a>
       <figcaption>Notes</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://prootzel.github.io/media/posts/19/gallery/aaaaaaa.png" data-size="1919x932">
-        <img loading="lazy" src="https://prootzel.github.io/media/posts/19/gallery/aaaaaaa-thumbnail.png" height="373" width="768" alt="Homepage of the website saying "Welcome"" >
+        <img decoding="async" loading="lazy" src="https://prootzel.github.io/media/posts/19/gallery/aaaaaaa-thumbnail.png" height="373" width="768" alt="Homepage of the website saying "Welcome"" >
       </a>
       <figcaption>Homepage</figcaption>
     </figure>
@@ -150,7 +150,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://prootzel.github.io/media/posts/18/aaaaa.png" height="912" width="1592" alt="Image of the application I mentioned"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://prootzel.github.io/media/posts/18/responsive/aaaaa-xs.png 300w ,https://prootzel.github.io/media/posts/18/responsive/aaaaa-sm.png 480w ,https://prootzel.github.io/media/posts/18/responsive/aaaaa-md.png 768w ,https://prootzel.github.io/media/posts/18/responsive/aaaaa-lg.png 1024w">
+      <img decoding="async" loading="lazy" src="https://prootzel.github.io/media/posts/18/aaaaa.png" height="912" width="1592" alt="Image of the application I mentioned"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://prootzel.github.io/media/posts/18/responsive/aaaaa-xs.png 300w ,https://prootzel.github.io/media/posts/18/responsive/aaaaa-sm.png 480w ,https://prootzel.github.io/media/posts/18/responsive/aaaaa-md.png 768w ,https://prootzel.github.io/media/posts/18/responsive/aaaaa-lg.png 1024w">
       <figcaption>Video by PhoenixSC</figcaption>
     </figure>
 
